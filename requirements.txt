@@ -1,0 +1,5 @@
+aiogram
+opencv-python-headless
+pyzbar
+numpy
+flask
