@@ -1,0 +1,6 @@
+aiogram
+opencv-python-headless
+numpy
+gspread
+oauth2client
+pyzbar
