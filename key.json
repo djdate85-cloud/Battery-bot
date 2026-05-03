@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "battery-bot-494916",
+  "private_key_id": "c542542c630d888d346a2b5b38a349d738d64b42",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDET1yqiUBXKtEn\noXliWEyBBGo7xr9kdEXcDZntJLqq7HY2HOtEolp1n2jTfIudh5f0dqmagxB1O1gJ\nHQPkoAdgng3cvnbgIe2sN3hyQLW/H8QTYdAPsTAN3R7Ax5oziTnKQqYUWcTuupVD\nr0LpleIfGw8lNCqVtY5/m/P0KdKU/byw+FSxOOmHsq6CnkuBjNusCp0aJbdhU++d\n9AsdVsv02w+lXCV1sy19vTiNXsxJlRmsLj7z21iPHbQVod/HDM4UT7nkjS4L2aYd\nc4a+gsjlmtb8hbJx5/L7bE6RST3KHZKN+teX1ujTenhv24bVkUEs2n3QBRBAySbu\nw8+EqWiRAgMBAAECggEAAMv5qk+ITVJFKw4Cuh11oghsjfWOjU/TgMMlXssJXuw6\nxplzcwHdsCCHgmQ9BNSqDzn0EkZ56J/nCZJuk5z6qq+5iq3TObGpj0tiV8RfeHke\niJ2bBJVJhqThHRMyUwc5jtKabfa3T+i99lpdwSj0k/++Hf6KNbVY8LenU9RfoG8t\nYZhmiVHWAmbdCWGl4Wsy8AXNA16ISSeT8VtFH+bRPApnSgtwFf6YcPu3HCs5Ufqu\nBajRXPV+2ABQYhuvcHBV/6bluc/mQUlDLW19rqCxJIPladnOWeg5qxDqgupvTSD/\njf67+CtihYMGiuMayPs8jdx0SJM1Y9rMSeUhnG26YQKBgQD9CvUNhn099Bfc+kUC\nh833RFoeF+BhP0OVUlZmRYcNt7fQG05t4yFvFoeXH2vL+nuX/ptxZosh6XDqDYUm\nBaRhT3qOrAkgFWhaD9es9gtG4i536kRO0FOGevnaha6JMQUIfRbIPW/tJItOMzmO\nRMgemq0vxBlqNEiY7SBszV1VpQKBgQDGmqyI4TtagXEDV5HQnFDVwXHnv1b95Jni\nDseG194MVJV1ALEzTouMw3MigOA+q32YcwVOuq64GAyo51MOU+j3XfSQjZF2r7Be\noxnR+DoiiSkSUoZ87gR4u43OrGDAkRu7J7XmD/TBE3XZepD2jtcORDbKKzTTOJeD\ntyD5Rl6LfQKBgQD8rQ5afStey/lwPbDfgACZovViC3GRafzwhJGl+lOLzSKNelbs\nv9tI9HRc4ZFg1DTKaAGMUVspd9O6w9lrSEMGsLiu8vcBxJ65IAy7t8028PB56cJf\n+QMOzInmPYs1j295NH+lYEP9x3obkmcsu14hwU6i3eyK8r5zhoXUX5WNyQKBgHcr\nxs3XwMK9GzAzMqbntUWebxftY2iz7HaOAcHy9CWX95qekLXFss0DVqnkhSp1wsZg\ndlXYhRCoNaiALgFR7l/IfADlQdzi7UTMP6kTdubUQNXiuRprxDkh6aSTIPdL20UB\nPg/PkUDtyXB3MFcSPQ8tdWb4aBk6QwhhMaMCS6cNAoGAGGMk37RffergHDfQBRXw\nzL5lARSZ+1VK+8BWFWOlUbWLvueOrw+5DnCY8HeMI+sashbalTnL3ZIQWRNtHHyu\nH9/c9QVWCrzHpw4+DUCojsRsyV49/rTTEUdEC66KbCrIoM1MhCxAaoiPQ6NpqRLJ\nQrvEHltFSbloDxx3hY5RUJM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "batterys-bot@battery-bot-494916.iam.gserviceaccount.com",
+  "client_id": "114058072238849368989",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/batterys-bot%40battery-bot-494916.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
