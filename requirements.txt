@@ -1,4 +1,0 @@
-aiogram
-gspread
-oauth2client
-pytz
