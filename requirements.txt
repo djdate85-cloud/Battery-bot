@@ -1,5 +1,0 @@
-aiogram        # Telegram bot bilan ishlash uchun asosiy kutubxona
-gspread        # Google Sheets jadvallari bilan ishlash uchun
-oauth2client   # Google API xavfsizlik kalitlari (key.json) uchun
-pytz           # Vaqtni O'zbekiston (Tashkent) mintaqasiga moslash uchun
-flask          # Render serverini uxlab qolishdan asrash (Keep-alive) uchun
